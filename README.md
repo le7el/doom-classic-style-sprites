@@ -1,7 +1,7 @@
 # Classic DooM sprite renderer
 2D sprite render component for Classic DooM style sprites for Unreal Engine 4 and 5.
 
-[Example 1] (/images/doom1.png)
+[Example 1](https://github.com/le7el/doom-classic-style-sprites/blob/main/images/doom1.png?raw=true)
 
 ## Installation on Unreal Engine 5
 
