@@ -5,7 +5,7 @@
 
 ## Installation on Unreal Engine 5
 
-Take the component `UE5.1/2DSpriteRender` and add it to the pawn that you'd like to make 2D. The component will do the rest, spawning the plane actor and setting the rendertargets. Also contains PP material for old 18-bit pixelated look. 
+Take the component `UE5.1/2DSpriteRender` and add it to the pawn that you'd like to make 2D. The component will do the rest, spawning the plane actor and setting the rendertargets. Also contains PP material for old 16-bit pixelated look. 
 
 ## Installation on Unreal Engine 4 (deprecated)
 
